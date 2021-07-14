@@ -7,7 +7,7 @@ LITCENSE: [MIT](./license.md)
 ---
 ### Содержание
 1. [Зачем нам Git](./whatisgit.md)
-2. [Состояния](./states)
+2. [Состояния](./states.md)
 3. [Коммит](./committed.md)
 4. [Ветка](./branch.md)
 5. [Работа с гитом в локальном репозитории](./repository.md)
