@@ -12,7 +12,9 @@ LITCENSE: [MIT](./license.md)
 4. [Ветка](./branch.md)
 5. [Работа с гитом в локальном репозитории](./repository.md)
 6. [Gitignor](./gitignore.md)
-7. [Работа с ветками]
+7. [Работа с ветками](./workingBranches.md)
+8. [Конфликты](./conflicts.md)
+9. [Работа с удаленными репозиториями](./RemoteRepositories.md)
 ---
 
 GIT logo by Jason Long http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
